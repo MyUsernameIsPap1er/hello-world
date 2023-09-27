@@ -9,8 +9,8 @@ this is my first repository... i was eating pork liver, mushroom cream, broccoli
 **Bold text _with italic_ inside**
 ***All Bold All italic***
 ###The main purpose will be to try all markdown elements 
-Text <sub>appearing as subscript</sub>
-text <sup>appearing as superscript</sup>
+Text<sub>appearing as subscript</sub>
+text<sup>appearing as superscript</sup>
 Those last two arent working like the others....
 
 
